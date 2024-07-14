@@ -43,11 +43,11 @@ This is a simple C program that simulates a voting system. Users can cast votes 
 
 1. Compile the code using a C compiler:
     ```bash
-    gcc voting_system.c -o voting_system
+    gcc src/code.c -o code
     ```
 2. Run the executable:
     ```bash
-    ./voting_system
+    ./code
     ```
 3. Follow the on-screen prompts to enter candidate information, cast votes, and view results.
 
